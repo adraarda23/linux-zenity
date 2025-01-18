@@ -2,6 +2,8 @@
 
 **[Video Tanıtımı](https://www.youtube.com/watch?v=FJPkqaPE8xE)**
 
+**[Repository Linki](https://github.com/adraarda23/linux-zenity)**
+
 Bu uygulama, kullanıcı rolleri ve veri yönetimiyle ilgili fonksiyonlar sunarak ürün ve kullanıcı yönetimi işlemlerini kolaylaştırmak için geliştirilmiştir. Ayrıca, çeşitli raporlama, yedekleme ve disk yönetimi özelliklerine de sahiptir.
 
 ---
